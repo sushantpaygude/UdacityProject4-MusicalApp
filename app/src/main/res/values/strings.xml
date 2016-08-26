@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Udacity Project 4- Musical App</string>
+    <string name="song_location">/home/sushant/UdacityProject4-MusicalApp/app/src/main/res/music</string>
+    <string name="about_eminem">"Rap God" is a song by American rapper Eminem. The song premiered via YouTube, on October 14, 2013, and was released in the US on October 15, as the third single from Eminem\'s eighth studio album, The Marshall Mathers LP 2 (2013). It contains references to previous conflicts in Eminem\'s career, as well as to other rappers\' conduct. The song received very positive reviews, with critics praising Eminem\'s lyrical ability and rapping speed.
+        The song entered the Guinness World Records as the hit single which contains the most words; it totals 1,560 words. It was also nominated for a Grammy Award for Best Rap Performance, but lost to Kendrick Lamar\'s "i".</string>
+    <string name="about_coldplay">"Fix You" is a song by British alternative rock band Coldplay. It was written by all four members of the band for their third studio album, X and Y (2005). The track is built around an organ accompanied by slow tempo drums and vocals.</string>
+    <string name="about_djsnake">"You Know You Like It" is a song by English electronic music duo AlunaGeorge from their debut studio album, Body Music (2013). The track was released in the United Kingdom on 20 April 2012 as the album\'s lead single. The song peaked at number 39 on the UK Singles Chart in April 2013 after being used in a Tesco advert.</string>
+    <string name="about_imaginedragons">"Demons" is a song recorded by American rock band Imagine Dragons. It was written by Imagine Dragons and Alex da Kid, and produced by Alex da Kid. The song appears on their major-label debut extended play Continued Silence and also makes an appearance on their debut studio album Night Visions as the fourth track.</string>
+</resources>
