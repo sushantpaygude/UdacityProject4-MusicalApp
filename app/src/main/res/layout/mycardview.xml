@@ -12,4 +12,5 @@
         style="@style/list_card.thumbnail"
         card:card_layout_resourceID="@layout/mycardlayout"
         android:background="@color/colorGrey"/>
+
 </LinearLayout>

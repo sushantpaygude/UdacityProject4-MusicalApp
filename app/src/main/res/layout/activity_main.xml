@@ -4,6 +4,14 @@
     android:orientation="vertical"
     xmlns:card="http://schemas.android.com/apk/res-auto" >
 
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Playlist"
+    android:layout_gravity="center"
+    android:textSize="25sp"
+    />
+
     <it.gmariotti.cardslib.library.view.CardListView
         android:layout_marginTop="10dp"
         android:id="@+id/cardListView"
